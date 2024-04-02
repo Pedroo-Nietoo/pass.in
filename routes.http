@@ -1,0 +1,8 @@
+POST http://localhost:3333/events
+Content-Type: application/json
+
+{
+    "title": "NLW!",
+    "details": "Testandoo oo o o oo o",
+    "maximumAttendees": 100
+}
